@@ -1,0 +1,11 @@
+location,distance_m,walls,rssi_dbm
+Same room LOS,1,0,-37
+Same room LOS,3,0,-49
+Same room LOS,5,0,-55
+Same room LOS,7,0,-58
+Next room,4,1,-58
+Next room,6,1,-63
+Corridor door closed,8,1,-66
+Two rooms away,7,2,-71
+Two rooms away,10,2,-76
+Three rooms away,12,3,-84
